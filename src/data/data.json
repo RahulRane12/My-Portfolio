@@ -1,21 +1,21 @@
 {
   "data": {
-    "fullName": "Vandit Shah",
+    "fullName": "Rahul Rane",
     "logo" : "logo.png",
-    "email" : "shahvandit8@gmail.com",
+    "email" : "rane.rahul1212@gmail.com",
     "titleArray": [
       "Full-Stack Web Developer",
-      "Software Developer",
-      "Blockchain Enthusiast",
+      "Wordpress Developer",
+      "Shopify Developer",
       "Computer Addict!"
     ],
-    "subTitle": "MERN stack magician, Web3 enthusiast, and part-time debugger. If you see me staring at my screen, I’m either coding… or questioning my life choices!",
+    "subTitle": "MERN stack & Wordpress Development magician, Data Analyst enthusiast, and part-time Freelancer. If you see me staring at my screen, I’m either coding… or questioning my life choices!",
     "resumeLink": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ShahVandit8/repo-storage/refs/heads/main/myportfolio/resume/resume.pdf",
     "aboutDescription": 
     [
-      "Hello! I'm Vandit, a budding full-stack web developer based in Toronto, Canada.", 
-      "Since my first coding venture in 8th grade, I've been captivated by the world of technology. Armed with a Bachelor in Computer Applications, I've honed my skills in the MERN stack, Python, and Java.",
-      "Currently, I'm expanding my expertise with a focus on Blockchain Development at York University. Beyond coding, I find joy in the synergy of design and development.",
+      "Hello! I'm Rahul Rane, a budding full-stack web developer based in Gwalior, (MP).", 
+      "Since my first coding venture in 12th grade, I've been captivated by the world of technology. Armed with a Bachelor in B.tech(CSE), I've honed my skills in the MERN stack,PHP, Wordpress Custom Development and Python",
+      "Currently, I'm expanding my expertise with a focus on Data Analyst at Udemy. Beyond coding, I find joy in the synergy of design and development.",
       "In recent years, I've dived into programming, crafting a robust front-end stack, and creating projects that address real-world challenges.",
       "Juggling design, development, and education, I am trying to dive deep into coding and make a real difference.",
       "If you're intrigued by what I'm working on, explore my portfolio below, and let's connect for potential collaborations!"
@@ -32,35 +32,35 @@
           {"name" : "JavaScript", "image": "javascript"}, 
           {"name" : "BootStrap", "image": "bs"}, 
           {"name" : "Tailwind", "image": "tailwind"}, 
-          {"name" : "Next Js", "image": "next"},
-          {"name" : "Shadcn UI", "image": "shadcn-ui"}]
+          {"name" : "Wordpress", "image": "wordpress"}]
       },
       {
         "title" : "Backend",
         "skillname": [
           {"name" : "Node Js", "image": "node"},
-          {"name" : "Express Js", "image": "express"}, 
+          {"name" : "Wordpress", "image": "wordpress"}, 
           {"name" : "NPM", "image": "npm"},
           {"name" : "MongoDB", "image": "mdb"},
-          {"name" : "MySQL", "image": "mysql"}]
+          {"name" : "MySQL", "image": "mysql"},
+          {"name" : "PHP", "image": "php"}]
       },
       {
         "title" : "Others",
         "skillname": [
           {"name" : "Python", "image": "py"},
-          {"name" : "Java", "image": "java"},
+          {"name" : "Canva", "image": "canva"},
           {"name" : "Git", "image": "git"}, 
           {"name" : "GitHub", "image": "github"}, 
           {"name" : "Netlify", "image": "netlify"}, 
-          {"name" : "Vercel", "image": "vercel"}, 
-          {"name" : "Photoshop", "image": "ps"},
-          {"name" : "Illustrator", "image": "ill"}]
+          {"name" : "AWS", "image": "aws"}, 
+          {"name" : "Docker", "image": "docker"},
+          {"name" : "n8n", "image": "folder"}]
       }
     ],
     "projects" : [
       {
         "projectName" : "ProfileX",
-        "projectType" : "GITHUB PROFILE BUILDER",
+        "projectType" : "Wordpress",
         "projectImage" : [
         "Project5/1.png"
       ],
@@ -77,7 +77,7 @@
       },
       {
         "projectName" : "BlockchainX",
-        "projectType" : "Blockchain Simulator",
+        "projectType" : "Shopify",
         "projectImage" : [
         "Project6/1.png"
       ],
@@ -94,7 +94,7 @@
       },
       {
         "projectName" : "NFT Lending Dapp Contract",
-        "projectType" : "Solidity Smart Contracts",
+        "projectType" : "PHP",
         "projectImage" : [
         "Project7/1.png"
       ],
@@ -109,7 +109,7 @@
       },
       {
         "projectName" : "Learning Management System",
-        "projectType" : "THE DIGITAL WORKSTATION",
+        "projectType" : "Muvi",
         "projectImage" : [
         "Project1/1. Landing Page.png", 
         "Project1/2. Course Enrollment Page.png", 
@@ -140,7 +140,7 @@
       },
       {
         "projectName" : "Cafe Management System",
-        "projectType" : "78° DEGREE CAFE",
+        "projectType" : "Landing Pages",
         "projectImage" : [
         "Project2/1.png", 
         "Project2/2.png", 
@@ -166,7 +166,7 @@
       },
       {
         "projectName" : "Insurance Agent Wesbite",
-        "projectType" : "FREELANCE PROJECT",
+        "projectType" : "Real Esate",
         "projectImage" : [
         "Project8/1.png"
       ],
@@ -182,7 +182,7 @@
       },
       {
         "projectName" : "Inventory Management System",
-        "projectType" : "DESKTOP APPLICATION",
+        "projectType" : "Woocommerce",
         "projectImage" : ["Project3/IMS.jpg"],
         "techStack" : [
           {"name" : "Java", "image": "java"}, 
@@ -194,7 +194,7 @@
       },
       {
         "projectName" : "Billing System",
-        "projectType" : "DESKTOP APPLICATION",
+        "projectType" : "Woocommerce",
         "projectImage" : ["Project4/Billing.jpg"],
         "techStack" : [
           {"name" : "Python", "image": "py"}
@@ -206,9 +206,9 @@
     ],
     "contactParagraph" : "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.", 
     "socialLinks" : {
-      "github" : "https://github.com/ShahVandit8",
-      "linkedin" : "https://www.linkedin.com/in/shah-vandit/",
-      "instagram" : "https://www.instagram.com/shahvandit8/"
+      "github" : "https://github.com/RahulRane12",
+      "linkedin" : "https://www.linkedin.com/in/rahul-rane12/",
+      "instagram" : "https://www.instagram.com/itsrahulrane/"
     }
   }
 }

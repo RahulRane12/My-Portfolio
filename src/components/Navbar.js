@@ -14,9 +14,7 @@ function Navbar() {
     return (
         <div>
             <div className='fixed-top'>
-                <div style={{ background: '#7364D0', padding: '5px' }}>
-                    <div className="text-center text-white"><span>Check out my New Portfolio at <a href="https://vandit-shah.me" className='text-white' style={{decoration: 'none'}} >https://vandit-shah.me</a></span></div>
-                </div>
+                
                 <nav className="navbar navbar-expand-lg row" style={{ background: '#1D1D23', padding: '17px' }} data-bs-theme="dark">
                     <div className="container-fluid">
                         <a className="navbar-brand p-0" href="#">

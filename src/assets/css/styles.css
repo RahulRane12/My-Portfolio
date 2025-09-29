@@ -272,6 +272,7 @@ section {
 
 .about-img {
   border-radius: 0.375rem;
+  
 }
 
 /* Skills Section */
@@ -616,4 +617,55 @@ article .icon {
   color: #a2a1a6;
   text-decoration: none;
   font-size: 20px;
+}
+
+/* Project Tabs */
+
+.project-tabs {
+  position: relative;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.tab-btn {
+  position: relative;
+  background: #867DD8;
+  border: none;
+  outline: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.4s, color 0.3s, box-shadow 0.4s;
+  border-radius: 8px;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(134,125,216,0.08);
+  margin: 0 0.25rem;
+}
+.tab-btn:hover {
+  background: #6c63b5;
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(134,125,216,0.18);
+}
+.tab-btn.active {
+  background: linear-gradient(90deg, #867DD8 60%, #a6a1e6 100%);
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(134,125,216,0.18);
+}
+.tab-btn .tab-underline {
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 0;
+  height: 3px;
+  background: #fff;
+  border-radius: 2px;
+  transition: width 0.4s cubic-bezier(.68,-0.55,.27,1.55), left 0.4s cubic-bezier(.68,-0.55,.27,1.55);
+}
+.tab-btn.active .tab-underline {
+  width: 60%;
+  left: 20%;
 }
