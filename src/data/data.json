@@ -59,148 +59,184 @@
     ],
     "projects" : [
       {
-        "projectName" : "ProfileX",
+        "projectName" : "Nexsel Tech",
         "projectType" : "Wordpress",
         "projectImage" : [
-        "Project5/1.png"
+        "Project5/1.webp"
       ],
         "techStack" : [
-          {"name" : "HTML", "image": "html"}, 
-          {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
-          {"name" : "BootStrap", "image": "bs"},
-          {"name" : "Vercel", "image": "vercel"} 
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"}
         ],
-        "description" : "Create a stunning GitHub profile in minutes! Profile-X is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
-        "githubLink" : "https://github.com/ShahVandit8/profile-x/",
-        "liveLink" : "https://profilex.dev/"
+        "description" : " ",
+        "githubLink" : " ",
+        "liveLink" : "https://www.nexsel.tech/"
       },
+            {
+        "projectName" : "Skin Care",
+        "projectType" : "Wordpress",
+        "projectImage" : [
+        "Project5/2.webp"
+      ],
+        "techStack" : [
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"}
+        ],
+        "description" : " ",
+        "githubLink" : " ",
+        "liveLink" : "https://pratibimbskinhairclinicahmednagar.com/"
+      },{
+        "projectName" : "Hospitality",
+        "projectType" : "Wordpress",
+        "projectImage" : [
+        "Project5/3.webp"
+      ],
+        "techStack" : [
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"}
+        ],
+        "description" : " ",
+        "githubLink" : " ",
+        "liveLink" : "https://prognohealth.com/"
+      },{
+        "projectName" : "Personal Coach",
+        "projectType" : "Wordpress",
+        "projectImage" : [
+        "Project5/4.png"
+      ],
+        "techStack" : [
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"}
+        ],
+        "description" : " ",
+        "githubLink" : " ",
+        "liveLink" : "https://digitalcharger.in/"
+      },
+
       {
-        "projectName" : "BlockchainX",
+        "projectName" : "E-commerce ",
         "projectType" : "Shopify",
         "projectImage" : [
-        "Project6/1.png"
+        "Project6/1.webp"
       ],
         "techStack" : [
-          {"name" : "Next", "image": "next"}, 
           {"name" : "React", "image": "react"}, 
           {"name" : "TypeScript", "image": "typescript"},
-          {"name" : "Tailwind", "image": "tailwind"},
-          {"name" : "Shadcn UI", "image": "shadcn-ui"}
+          {"name" : "Shopify", "image": "shopify"}
         ],
-        "description" : "BlockchainX is an interactive blockchain simulator to visualize mining, create wallets, and send transactions in real-time. Learn blockchain and Bitcoin mining easily.",
-        "githubLink" : "https://github.com/ShahVandit8/blockchain-simulator/",
-        "liveLink" : "https://shahvandit8.github.io/blockchain-simulator/"
+        "description" : "",
+        "githubLink" : " ",
+        "liveLink" : "https://mykkstore.com/"
       },
       {
-        "projectName" : "NFT Lending Dapp Contract",
+        "projectName" : "Solar panel",
         "projectType" : "PHP",
         "projectImage" : [
-        "Project7/1.png"
+        "Project7/1.webp"
       ],
         "techStack" : [
-          {"name" : "Ethereum", "image": "ethereum"}, 
-          {"name" : "Solidity", "image": "solidity"}, 
-          {"name" : "Hardhat", "image": "hardhat"}
+          {"name" : "PHP", "image": "php"}, 
+          {"name" : "MySQL", "image": "mysql"},
+          {"name" : "JavaScript", "image": "javascript"},
+          {"name" : "HTML", "image": "html"}, 
+          {"name" : "CSS", "image": "css"}
         ],
-        "description" : "NFTLendingContracts is a smart contract backend for an Ethereum-based NFT lending marketplace. It enables lending, borrowing, and liquidation of NFTs with ETH collateral, featuring a fixed 1% daily interest rate.",
-        "githubLink" : "https://github.com/ShahVandit8/nft_lending_contracts",
-        "liveLink" : ""
+        "description" : "Solar panel installation service website.",
+        "githubLink" : " ",
+        "liveLink" : "https://jsbsolar.in/"
       },
       {
-        "projectName" : "Learning Management System",
+        "projectName" : "streaming Media Platform",
         "projectType" : "Muvi",
         "projectImage" : [
-        "Project1/1. Landing Page.png", 
-        "Project1/2. Course Enrollment Page.png", 
-        "Project1/3. Student Login Page.png", 
-        "Project1/4. Student Profile Page.png", 
-        "Project1/5. My Courses Page.png", 
-        "Project1/6. Enrolled Courses Page.png", 
-        "Project1/7. Admin Dashboard.png", 
-        "Project1/8. Course Management.png", 
-        "Project1/9. Manage Course Content.png", 
-        "Project1/10. Manage Course Resources.png", 
-        "Project1/11. Manage Attendance.png", 
-        "Project1/12. Enrollment Management.png", 
-        "Project1/13. Instructor Management.png", 
-        "Project1/14. Student Management.png", 
-        "Project1/15. Contact Me Form Messages.png", 
-        "Project1/16. Instructor Dashboard.png"],
+        "Project1/1.png"],
         "techStack" : [
           {"name" : "HTML", "image": "html"}, 
-          {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
-          {"name" : "Node Js", "image": "node"}, 
-          {"name" : "MongoDB", "image": "mdb"}
+          {"name" : "CSS", "image": "css"}
         ],
-        "description" : "LMS for an offline learning institute, facilitating student enrollment, progress tracking, and instructor interaction.",
+        "description" : " ",
         "githubLink" : "",
-        "liveLink" : "https://thedigitalworkstation.netlify.app/"
+        "liveLink" : "https://onedollar.media/"
       },
       {
-        "projectName" : "Cafe Management System",
+        "projectName" : "all landings pages",
         "projectType" : "Landing Pages",
         "projectImage" : [
         "Project2/1.png", 
         "Project2/2.png", 
         "Project2/3.png", 
         "Project2/4.png", 
-        "Project2/5.png", 
-        "Project2/6.png", 
-        "Project2/7.png", 
-        "Project2/8.png", 
-        "Project2/9.png", 
-        "Project2/10.png", 
-        "Project2/11.png"],
+        "Project2/5.png"],
         "techStack" : [
           {"name" : "HTML", "image": "html"}, 
           {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
-          {"name" : "Node Js", "image": "node"}, 
-          {"name" : "MongoDB", "image": "mdb"}
+          {"name" : "JavaScript", "image": "javascript"}, 
+          {"name" : "BootStrap", "image": "bs"},
+          {"name" : "Wordpress", "image": "wordpress"}
         ],
-        "description" : "CMS for local cafe to streamline its online ordering system by integrated QR codes for Tables, Managing Orders, Kitchen Tickets and Customer Management.",
+        "description" : "",
         "githubLink" : "",
-        "liveLink" : "https://78degreescafe.netlify.app/"
-      },
+        "liveLink" : "https://mbaonlinecourses.org/"      },
       {
-        "projectName" : "Insurance Agent Wesbite",
+        "projectName" : "For Builders",
         "projectType" : "Real Esate",
         "projectImage" : [
-        "Project8/1.png"
+        "Project8/1.webp"
       ],
         "techStack" : [
           {"name" : "Next", "image": "next"}, 
           {"name" : "React", "image": "react"}, 
           {"name" : "JavaScript", "image": "javascript"},
-          {"name" : "BootStrap", "image": "bs"}
+          {"name" : "BootStrap", "image": "bs"},
+          {"name" : "PHP", "image": "php"}
         ],
-        "description" : "AP Life Secure - A Business Wesbite for Insurance Company, It was a Freelance Project. Looked after development, deployment and SEO.",
+        "description" : " ",
         "githubLink" : "",
-        "liveLink" : "https://aplifesecure.ca"
+        "liveLink" : "https://ucmworld.com/"
       },
       {
-        "projectName" : "Inventory Management System",
+        "projectName" : "medicine delivery",
         "projectType" : "Woocommerce",
-        "projectImage" : ["Project3/IMS.jpg"],
+        "projectImage" : ["Project3/1.webp"],
         "techStack" : [
-          {"name" : "Java", "image": "java"}, 
-          {"name" : "MySQL", "image": "mysql"}
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"},
+          {"name" : "JavaScript", "image": "javascript"},
+          {"name" : "HTML", "image": "html"}, 
+          {"name" : "CSS", "image": "css"}
         ],
-        "description" : "Created a comprehensive inventory management system using Java, Swing, and JDBC.",
-        "githubLink" : "https://github.com/ShahVandit8/Inventory_Management_System",
-        "liveLink" : ""
+        "description" : "",
+        "githubLink" : " ",
+        "liveLink" : "https://dhanvantarihealthcare.info/"
       },
       {
-        "projectName" : "Billing System",
+        "projectName" : "Women Care",
         "projectType" : "Woocommerce",
-        "projectImage" : ["Project4/Billing.jpg"],
+        "projectImage" : ["Project4/1.png"],
         "techStack" : [
-          {"name" : "Python", "image": "py"}
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"},
+          {"name" : "JavaScript", "image": "javascript"},
+          {"name" : "HTML", "image": "html"}, 
+          {"name" : "CSS", "image": "css"}
         ],
-        "description" : "Developed a billing system in Python for small businesses, emphasizing ease of use and efficiency.",
-        "githubLink" : "https://github.com/ShahVandit8/Billing_System_Project",
+        "description" : "",
+        "githubLink" : " ",
+        "liveLink" : "https://patridemart.com/"
+      },
+       {
+        "projectName" : "Drone battery selling",
+        "projectType" : "Woocommerce",
+        "projectImage" : ["Project4/2.png"],
+        "techStack" : [
+          {"name" : "Wordpress", "image": "wordpress"}, 
+          {"name" : "PHP", "image": "php"},
+          {"name" : "JavaScript", "image": "javascript"},
+          {"name" : "HTML", "image": "html"}, 
+          {"name" : "CSS", "image": "css"}
+        ],
+        "description" : "",
+        "githubLink" : " ",
         "liveLink" : ""
       }
     ],
